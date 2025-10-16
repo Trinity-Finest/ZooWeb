@@ -55,6 +55,7 @@ body{
 
 #main-home img{
  width: 100%;
+length: 100%;
 
 }
 
@@ -208,4 +209,5 @@ textarea{
     margin: 12px 0;
     padding: 8px 0;
     display: block
+
 }
